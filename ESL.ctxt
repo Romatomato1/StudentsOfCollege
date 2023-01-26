@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ESL
+comment0.text=\r\n\ This\ is\ a\ class\ that\ takes\ gives\ a\ report\ of\ ESL\ student\ data\r\n\r\n\ @author\ Roman\ Gofman\r\n\ @version\ 3/19/2020\r\n
+comment1.params=id\ firstName\ lastName\ sex\ month\ day\ year\ level
+comment1.target=ESL(java.lang.String,\ java.lang.String,\ java.lang.String,\ Sex,\ int,\ int,\ int,\ Level)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ESL\r\n\ \r\n\ @param\ \ id\ -\ a\ String\ varible\ representing\ id.\r\n\ @param\ \ firstName\ -\ a\ String\ varible\ representing\ first\ name.\r\n\ @param\ \ lastName\ -\ a\ String\ varible\ representing\ last\ name.\r\n\ @param\ \ sex\ -\ a\ varible\ that\ is\ enumSex\ type\ representing\r\n\ the\ sex\ of\ the\ student.\r\n\ @param\ month\ -\ integer\ representing\ the\ month\ the\ student\r\n\ was\ born\r\n\ @param\ day\ -\ integer\ value\ for\ the\ day\ the\ student\ was\ born\r\n\ @param\ year\ -\ intger\ value\ that\ represents\ the\ student's\ \r\n\ year\ of\ birth\r\n\ @param\ level-\ enum\ Level\ type\ representing\ the\ esl\ level\r\n
+comment2.params=
+comment2.target=double\ getPrice()
+comment2.text=\r\n\ This\ method\ overrides\ the\ abstract\ method\ of\ the\ parent\ \r\n\ class\ student\r\n\ \r\n\ @returns\ price\ \ -\ a\ double\ value\ of\ the\ price\ per\ credit\r\n
+comment3.params=
+comment3.target=Level\ getLevel()
+comment3.text=\r\n\ This\ method\ returns\ the\ level\ of\ the\ ESL\ Student\r\n\ \r\n\ @return\ level\ value\ of\ the\ esl\ student\r\n\ \r\n
+comment4.params=level
+comment4.target=void\ setLevel(Level)
+comment4.text=\r\n\ This\ method\ sets\ the\ parameter\ level\ equal\ to\ the\ instance\ \r\n\ variable.\r\n\ \r\n\ @param\ level\ -\ enum\ type\ Level\ representing\ level\ of\ \r\n\ placement\ in\ ESL\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ This\ method\ takes\ in\ data\ and\ returns\ it\ in\ the\ form\ of\ a\r\n\ string\r\n\ \r\n\ @return\ string\ of\ all\ given\ data\r\n
+numComments=6

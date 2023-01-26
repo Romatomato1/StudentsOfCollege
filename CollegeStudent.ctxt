@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CollegeStudent
+comment0.text=\r\n\ Puts\ all\ students\ into\ an\ array\ list\r\n\r\n\ @author\ Roman\ Gofman\r\n\ @version\ 3/23/2020\r\n
+comment1.params=
+comment1.target=CollegeStudent()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CollegeStudent\r\n
+comment2.params=student
+comment2.target=void\ addStudent(College)
+comment2.text=\r\n\ Adds\ a\ college\ object\ to\ the\ College\ students\ array\ list\r\n\r\n\ @param\ \ The\ student\ to\ be\ added\ to\ the\ array\ list\r\n
+comment3.params=index
+comment3.target=void\ removeStudent(int)
+comment3.text=\r\n\ Removes\ a\ student\ from\ the\ array\ list\ \r\n\ \r\n\ @param\ the\ index\ of\ the\ student\ to\ be\ removed\r\n
+comment4.params=
+comment4.target=int\ getNumStudents()
+comment4.text=\r\n\ gets\ the\ size\ of\ the\ college\ students\ array\r\n\ \r\n\ @return\ integer\ value\ of\ the\ size\ of\ the\ array\ list\r\n
+comment5.params=index
+comment5.target=College\ getStudent(int)
+comment5.text=\r\n\ Gets\ a\ student\ at\ a\ certain\ index\ value\r\n\ \r\n\ @param\ the\ index\ value\ of\ the\ student\ to\ be\ found\r\n\ @return\ a\ student\ found\ in\ the\ array\ at\ a\ certain\ index\r\n
+comment6.params=
+comment6.target=int\ getFullTime()
+comment6.text=\r\n\ Gets\ the\ number\ of\ full\ time\ students\r\n\ \r\n\ @returns\ the\ number\ of\ full\ time\ college\ students\r\n
+comment7.params=id
+comment7.target=int\ isFound(java.lang.String)
+comment7.text=\r\n\ determines\ whether\ there\ is\ a\ student\ in\ the\ array\ with\ the\ given\ id\r\n\ \r\n\ @return\ integer\ iindex\ of\ student\ or\ negative\ one\ if\ not\ found\r\n
+numComments=8

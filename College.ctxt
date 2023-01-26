@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=College
+comment0.text=\r\n\ College\ is\ a\ class\ that\ displays\ data\ about\ a\ college\ student\r\n\r\n\ @author\ Roman\ Gofman\r\n\ @version\ 3/19/2020\r\n
+comment1.params=id\ firstName\ lastName\ sex\ month\ day\ year
+comment1.target=College(java.lang.String,\ java.lang.String,\ java.lang.String,\ Sex,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ the\ abstract\ class\ student.\ Validates\ and\r\n\ instantiates\ the\ instance\ varibles.\r\n\r\n\ @param\ \ id\ -\ a\ String\ varible\ representing\ id.\r\n\ @param\ \ firstName\ -\ a\ String\ varible\ representing\ first\ name.\r\n\ @param\ \ lastName\ -\ a\ String\ varible\ representing\ last\ name.\r\n\ @param\ \ sex\ -\ a\ varible\ that\ is\ enumSex\ type\ representing\r\n\ the\ sex\ of\ the\ student.\r\n\ @param\ month\ -\ integer\ representing\ the\ month\ the\ student\r\n\ was\ born\r\n\ @param\ day\ -\ integer\ value\ for\ the\ day\ the\ student\ was\ born\r\n\ @param\ year\ -\ intger\ value\ that\ represents\ the\ student's\ \r\n\ year\ of\ birth\r\n
+comment2.params=
+comment2.target=double\ getPrice()
+comment2.text=\r\n\ This\ method\ returns\ the\ price\ owed\ for\ the\ number\ of\ credits\r\n\ \r\n\ @return\ the\ price\ pre\ credit\ times\ the\ credits\ for\ total\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFullTime()
+comment3.text=\r\n\ This\ method\ returns\ the\ variable\ FullTime\r\n\ \r\n\ @return\ fullTime\ -\ representing\ a\ student\ with\ 13\ or\ more\ \r\n\ credits\r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ This\ method\ takes\ in\ data\ and\ returns\ it\ in\ the\ form\ of\ a\r\n\ string\r\n\ \r\n\ @return\ string\ of\ all\ given\ data\r\n
+numComments=5
